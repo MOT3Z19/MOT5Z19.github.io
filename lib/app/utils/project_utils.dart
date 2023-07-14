@@ -20,7 +20,7 @@ List<ProjectUtils> projectUtils = [
     titles: 'Awesome Store Api App',
     description:
         'This is a just Fully functional Store Api App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/MOT3Z19',
+    links: 'https://github.com/MOT3Z19/',
   ),
   ProjectUtils(
     banners: 'assets/imgs/1.png',
@@ -28,7 +28,7 @@ List<ProjectUtils> projectUtils = [
     titles: 'Awesome Store Firebase App',
     description:
         'This is a just Store Firebase using Flutter, file is also available, check below.',
-    links: 'https://github.com/MOT3Z19',
+    links: 'https://github.com/MOT3Z19/',
   ),
   ProjectUtils(
     banners: 'assets/imgs/111.jpg',
@@ -36,7 +36,7 @@ List<ProjectUtils> projectUtils = [
     titles: 'Food Delivery App UI',
     description:
         'This is a just Fully function Food Delivery App UI by using flutter, source code is also available, check below.',
-    links: 'https://github.com/MOT3Z19/Food-Delivery',
+    links: 'https://github.com/MOT3Z19/Food-Delivery/',
   ),
   ProjectUtils(
     banners: 'assets/imgs/04.png',
@@ -44,6 +44,6 @@ List<ProjectUtils> projectUtils = [
     titles: 'Awesome Plant App UI',
     description:
         'This is a just Plant App UI by using flutter, source code is also available, check below.',
-    links: 'https://github.com/MOT3Z19/Plant-UI',
+    links: 'https://github.com/MOT3Z19/Plant-UI/',
   ),
 ];
