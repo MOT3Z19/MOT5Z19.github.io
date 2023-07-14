@@ -15,16 +15,6 @@ const String linkedin = 'https://linkedin.com/in/motaz-ahmad-21a5811b3';
 const String buymeacoffee = 'https://www.buymeacoffee.com/motazboss26?new=1';
 // Github Link
 const String instagram = 'https://instagram.com/motazabomandeel';
-// socialLinks
-// const List<String> socialLinks = [
-//   "https://facebook.com/sudeshnb",
-//   // "https://instagram.com/sudesh_nish",
-//   "https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg",
-//   "https://twitter.com/sudesh78",
-//   "https://linkedin.com/in/sudeshnb",
-//   "https://www.buymeacoffee.com/sudeshnb", "https://github.com/sudeshnb",
-// ];
-//
 const String profileImage =
     "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80";
 //
